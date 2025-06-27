@@ -14,7 +14,7 @@ meta-clang,https://github.com/kraj/meta-clang,scarthgap,b9ef02282197380ef05edbd0
 oe-core,https://git.openembedded.org/openembedded-core,scarthgap,1be6d83466e3a0da4222ba502c2a86c25c835a35,layers=meta
 meta-variscite-bsp-common,https://github.com/varigit/meta-variscite-bsp-common.git,scarthgap_6.6.52-2.2.0_var01,4881aa9adb7619e075a56c2d43f9f2d4824f5563,layers=
 meta-variscite-bsp-ti,https://github.com/FrancescoFerraro/meta-variscite-bsp-ti.git,dev_scarthgap_11.00.09.04_var01_RND-2851_am62,28821e2b399e69d0f00caff2da11e9ff5fb3385e,layers=
-meta-variscite-sdk-common,https://github.com/varigit/meta-variscite-sdk-common.git,scarthgap_6.6.52-2.2.0_var01,0df45874209b363defdccf266504948bb385d332,layers=
+meta-variscite-sdk-common,https://github.com/varigit/meta-variscite-sdk-common.git,scarthgap_6.6.52-2.2.0_var01,4544d3f20397fc9c02cb7243365547086340eda4,layers=
 meta-variscite-sdk-ti,https://github.com/FrancescoFerraro/meta-variscite-sdk-ti.git,dev_scarthgap_11.00.09.04_var01_RND-2851_am62,0030049dd88afaa11711b0b4f0e9d6ce07112bbf,layers=
 meta-swupdate,https://github.com/sbabic/meta-swupdate.git,scarthgap,d598d4e675b541301ea1dfc8f0c8931983b4dcd0,layers=
 
